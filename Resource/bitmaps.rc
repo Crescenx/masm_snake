@@ -1,0 +1,12 @@
+#define IDB_START                   101
+#define IDB_OVER                    102
+#define IDB_BLOCK                   1001
+#define IDB_WALL                    1002
+#define IDB_FOOD                    1003
+#define IDB_SELECT                  1004
+IDB_START               BITMAP   DISCARDABLE   "./start.bmp"
+IDB_OVER                BITMAP   DISCARDABLE   "./over.bmp"
+IDB_BLOCK               BITMAP   DISCARDABLE   "./block.bmp"
+IDB_WALL                BITMAP   DISCARDABLE   "./wall.bmp"
+IDB_FOOD                BITMAP   DISCARDABLE   "./food.bmp"
+IDB_SELECT              BITMAP   DISCARDABLE   "./select.bmp"
